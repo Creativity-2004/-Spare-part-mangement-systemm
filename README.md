@@ -1,7 +1,3 @@
-# -Spare-part-mangement-systemm
-Here's a polished and professional version of your GitHub README snippet:
-
----
 
 ## Auto Spare Parts Sales Management System
 
